@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Price Howard
 - 👀 I’m interested in a future career in software development 
-- 🌱 I’m currently learning OOP and HTML,CSS, and Javascript at Oregon State University
+- 🌱 I’m currently learning OOP, Data Structures, Assembly,  HTML,CSS, and Javascript at Oregon State University
 - :school_satchel: Sophmore going into Junior Year with a major in Computer Science at Oregon State University
 - :earth_americas: - Albany, Oregon
 - 📫 How to reach me 
